@@ -1,6 +1,7 @@
 import execjs    
 import urllib.parse
 
+# Replace the empty strings with valid values
 url = ""
 user_agent = ""
 
